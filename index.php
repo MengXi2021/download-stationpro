@@ -76,9 +76,9 @@ include('header.php');
     </div>
     <br>
 </div>
-<div class="mdui-container" style="max-width: 1200px; ">
+<div class="mdui-container" style="max-width: 400px; ">
         <div class="hide"></div>
-        <div class="mdui-card" style="border-radius: 6px;">
+        <div class="mdui-card" style="border-radius: 16px;">
             <div class="mdui-card-media">
                 <div class="mdui-card-menu">
                 </div>
